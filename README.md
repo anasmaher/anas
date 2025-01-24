@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Al-Horigy</h1>
-<h3 align="center">A CS student, competitive programmer, and a fullstack dev in the making!</h3>
+<h3 align="center">A CS student, competitive programmer, .NET dev, and a full stack dev in the making!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasmaher&label=Profile%20views&color=0e75b6&style=flat" alt="anasmaher" /> </p>
 
@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmaher&show_icons=true&locale=en&layout=compact" alt="anasmaher" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasmaher&show_icons=true&locale=en" alt="anasmaher" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasmaher&" alt="anasmaher" /></p>
