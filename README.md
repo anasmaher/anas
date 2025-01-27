@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasmaher" alt="anasmaher" /></a> </p>
 
-- 🔭 I’m currently working on [ChatApp API](https://github.com/anasmaher/ChatAppAPI)
-
 - 🌱 I’m currently learning **Angular**
-
-- ⚡ I have worked on [CatStore API](https://github.com/anasmaher/CatStoreAPI)
-
-- ⚡ I have worked on [VSCode_Snippet_Generator](https://github.com/anasmaher/VSCode_Snippet_Generator)
 
 - 💬 Ask me about **Dot Net**
 
